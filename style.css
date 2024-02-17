@@ -1,0 +1,153 @@
+
+.head{
+    background-color: rgb(58, 58, 177);
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ul{
+    display: flex;
+    list-style-type: none;
+}
+.flag{
+    width: 30px;
+    border-radius:50%;
+}
+.pkr{
+    padding: 20px;
+    cursor: pointer;
+}
+.re{
+    width: 90px;
+    height: 30px;
+    color: blue;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.nav{
+    width: 80vw;
+    height: 15vh;
+    position:relative;
+    left: 200px;
+}
+.stay{
+    display:flex;
+}
+.flight{
+    margin: 20px;
+    list-style-type: none;
+    cursor: pointer;
+}
+.flight:hover{
+    border: 1px solid white;
+    border-radius: 15px;
+}
+.fa-solid{
+    padding: 10px;
+}
+.heading{
+    width: 60vw;
+    height: 20vh;
+    position: relative;
+    left: 250px;
+}
+.he{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.low{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    width: 80vw;
+    height: 20vh;
+    position: relative;
+    bottom: 30px;
+    left: 250px;
+}
+.where{
+    width: 350px;
+    height: 45px;
+    border: 5px solid goldenrod;
+}
+.search{
+    width: 120px;
+    height: 50px;
+    border: 5px solid goldenrod;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgb(43, 43, 225);
+    cursor: pointer;
+}
+.main{
+    width: 80vw;
+    height: 30vh;
+}
+.boat{
+    width: 80vw;
+    height: 20vh;
+    border-radius: 10px;
+}
+.position{
+    font-size: 13px;
+    color:white;
+    width: 30vw;
+    height: 15vh;
+    position:relative;
+    bottom: 180px;
+    left: 210px;
+}
+.main{
+    width: 80vw;
+    height: 35vh;
+    position: relative;
+    left: 200px;
+}
+.find{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: rgb(47, 47, 212);
+    border: none;
+    border-radius: 10px;
+}
+.main2{
+    width: 90vw;
+    height: 50vh;
+    position: relative;
+    left: 100px;
+
+}
+.lahore{
+    width: 40vw;
+    height:40vh;
+    border-radius: 10px;
+    margin: 10px;
+}
+.dubai{
+    margin: 10px;
+    width: 40vw;
+    height: 40vh;
+    border-radius: 10px;
+}
+.islamabad{
+    margin: 10px;
+    width:25vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+.mai{
+    position: relative;
+    top: 300px;
+    left: 100px;
+}
+.card{
+    width: 15vw;
+    height: 20vh;
+}
